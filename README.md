@@ -19,6 +19,6 @@ Usage Instructions:
 Note: Ensure that you adhere to websites' terms of service and data usage policies when scraping information. Respectful and responsible scraping practices are recommended.
 
 GitHub Repository:
-The project can be found in my GitHub repository [repository link]. It includes the Python script and a README file providing detailed instructions on how to use the script and any necessary dependencies.
+The project can be found in my GitHub repository. It includes the Python script and a README file providing detailed instructions on how to use the script and any necessary dependencies.
 
 Feel free to explore the project, contribute improvements, or utilize it as a starting point for your own web scraping endeavors.
